@@ -1,1 +1,1 @@
-# pivx-detached-sigs
+# divi-detached-sigs
